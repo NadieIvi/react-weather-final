@@ -14,6 +14,14 @@ export default function App() {
             rel="noreferrer"
           >
             open-soursed on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://lovely-taffy-3e2a51.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
