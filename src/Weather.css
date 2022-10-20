@@ -23,7 +23,7 @@
 }
 
 .Weather img {
-  margin-right: 10px;
+  margin: auto 0;
 }
 
 .Weather .temperature {
